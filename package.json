@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@polymarket/clob-client-v2": "^1.0.6",
+    "dotenv": "^17.4.2",
+    "ethers": "^6.16.0",
+    "https-proxy-agent": "^9.0.0",
+    "viem": "^2.50.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3"
+  }
+}
